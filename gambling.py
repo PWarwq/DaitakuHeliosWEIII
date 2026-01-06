@@ -1,8 +1,7 @@
 import random
-import time
 
 print("Lesgo Gambling")
-time.sleep(2)
+
 
 ask = input("Lesgo gambling: [y] ")
 
